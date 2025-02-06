@@ -41,3 +41,5 @@ Future Improvements 🛠️
 Add a scrollable text area for lengthy articles.
 Implement date and time auto-fetching.
 Allow dynamic addition of articles through a form.
+
+<img align="left" alt="coding" width="1200" src="https://cdn.britannica.com/25/93825-050-D1300547/collection-newspapers.jpg">
